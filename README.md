@@ -1,0 +1,1 @@
+This multithreading project helps us to read the file with the use of thread and separate the odd and even lines from the files and write the lines in seprate file for odd and even lines using the thread.
